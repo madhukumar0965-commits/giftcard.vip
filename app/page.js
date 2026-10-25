@@ -19,7 +19,7 @@ export default function Home() {
       count: "03",
       question: "Is this the official www.giftcardmall.com/mygift website?",
       answer:
-        "No. GiftCardVIP.com is an independent educational guide. It is not operated by GiftCardMall, a card issuer, Visa, Mastercard, or any bank. We do not activate cards, process transactions, or collect card numbers, PINs, security codes, or expiration dates.",
+        "No. Giftcare.vip is an independent educational guide. It is not operated by GiftCardMall, a card issuer, Visa, Mastercard, or any bank. We do not activate cards, process transactions, or collect card numbers, PINs, security codes, or expiration dates.",
     },
     {
       id: "faq-4",
@@ -107,15 +107,15 @@ export default function Home() {
 
       <header className="site-header" id="top">
         <nav className="nav wrap" aria-label="Main navigation">
-          <a className="brand" href="#top" aria-label="GiftCardVIP.com guide home">
+          <a className="brand" href="#top" aria-label="Giftcare.vip guide home">
             <span className="brand-mark" aria-hidden="true">
               ✳
             </span>
             <span className="brand-type">
               <strong>
-                GiftCardVIP<span style={{ color: "#d86443" }}>.</span>
+                Giftcare<span style={{ color: "#d86443" }}>.</span>
               </strong>
-              <small>giftcardvip.com</small>
+              <small>giftcare.vip</small>
             </span>
           </a>
           <div className="nav-links">
@@ -153,8 +153,8 @@ export default function Home() {
                 <a className="btn btn-outline" href="#faq">
                   Explore answers <span aria-hidden="true">↓</span>
                 </a>
-                <a className="btn btn-outline" href="https://giftcardvip.com/">
-                  Visit GiftCardVIP.com <span aria-hidden="true">↗</span>
+                <a className="btn btn-outline" href="https://giftcare.vip/">
+                  Visit Giftcare.vip <span aria-hidden="true">↗</span>
                 </a>
               </div>
               <p className="hero-footnote">
@@ -595,8 +595,8 @@ export default function Home() {
                   ✳
                 </span>
                 <span className="brand-type">
-                  <strong>GiftCardVIP.</strong>
-                  <small>giftcardvip.com</small>
+                  <strong>Giftcare.</strong>
+                  <small>giftcare.vip</small>
                 </span>
               </a>
               <p>
@@ -615,7 +615,7 @@ export default function Home() {
             <div>
               <h3>Important disclosure</h3>
               <p>
-                GiftCardVIP.com is not affiliated with, sponsored by, or
+                Giftcare.vip is not affiliated with, sponsored by, or
                 endorsed by GiftCardMall, Blackhawk Network, Visa, Mastercard, or
                 a card issuer. All trademarks belong to their respective owners.
                 Always contact your issuer for account-specific help.
@@ -624,7 +624,7 @@ export default function Home() {
           </div>
           <div className="footer-bottom">
             <span>
-              © 2026 GiftCardVIP.com · Independent informational resource ·
+              © 2026 Giftcare.vip · Independent informational resource ·
               Updated October 18, 2026
             </span>
             <a className="back-top" href="#top">

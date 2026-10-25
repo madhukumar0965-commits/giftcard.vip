@@ -2,8 +2,8 @@ import "./globals.css";
 import schemaData from "./schema.json";
 
 export const metadata = {
-  metadataBase: new URL("https://giftcardvip.com"),
-  title: "GiftCardVIP.com | Independent Gift Card Balance Guide",
+  metadataBase: new URL("https://giftcare.vip"),
+  title: "Giftcare.vip | Independent Gift Card Balance Guide",
   description:
     "GiftCardMall/MyGift balance guide: learn to check your prepaid Visa or Mastercard gift card balance safely. Help with www.giftcardmall.com/mygift, activation, transactions and declined cards.",
   keywords: [
@@ -17,7 +17,7 @@ export const metadata = {
     "gift card activation",
     "prepaid card transaction history",
   ],
-  authors: [{ name: "GiftCardVIP.com Independent Guide" }],
+  authors: [{ name: "Giftcare.vip Independent Guide" }],
   alternates: {
     canonical: "/",
   },
@@ -31,15 +31,15 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://giftcardvip.com/",
-    siteName: "GiftCardVIP.com — Independent Balance Guide",
-    title: "GiftCardVIP.com | Independent Gift Card Balance Guide",
+    url: "https://giftcare.vip/",
+    siteName: "Giftcare.vip — Independent Balance Guide",
+    title: "Giftcare.vip | Independent Gift Card Balance Guide",
     description:
       "An independent, practical guide to GiftCardMall/MyGift balance checks, safe URL verification, transactions, activation and card problems.",
   },
   twitter: {
     card: "summary",
-    title: "GiftCardVIP.com | Gift Card Balance & Cardholder Help",
+    title: "Giftcare.vip | Gift Card Balance & Cardholder Help",
     description:
       "Find the right place to check a prepaid gift card balance and learn what to do if your card is declined.",
   },
