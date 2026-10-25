@@ -3,10 +3,32 @@ import schemaData from "./schema.json";
 
 export const metadata = {
   metadataBase: new URL("https://giftcare.vip"),
-  title: "Giftcare.vip | Independent Gift Card Balance Guide",
+  title: "GiftCardMall/MyGift | Check Balance | Official Website Guide",
   description:
-    "GiftCardMall/MyGift balance guide: learn to check your prepaid Visa or Mastercard gift card balance safely. Help with www.giftcardmall.com/mygift, activation, transactions and declined cards.",
-  
+    "Learn about GiftCardMall/MyGift balance checks, card activation, registration, declined payments, transaction issues, and safe ways to find cardholder support.",
+  keywords: [
+    "giftcardmall/mygift",
+    "giftcardmall",
+    "giftcardmall balance",
+    "giftcardmall/mygift balance",
+    "mygift giftcardmall",
+    "giftcardmall mygift",
+    "giftcardmall mygift check balance",
+    "giftcardmall/mygift check balance",
+    "giftcardmall/mygift visa",
+    "www.giftcardmall.com mygift",
+    "giftcardmall activation",
+    "giftcardmall register card",
+    "mcgiftcard balance",
+    "mcgiftgiftcardmall balance",
+    "giftcardmall balance check",
+    "mygift card balance",
+    "gift card balance check",
+    "prepaid visa gift card balance",
+    "mastercard gift card balance",
+    "gift card activation",
+    "prepaid card transaction history",
+  ],
   alternates: {
     canonical: "/",
   },
@@ -17,7 +39,6 @@ export const metadata = {
     "max-image-preview": "large",
     "max-video-preview": -1,
   },
-  
 };
 
 export const viewport = {

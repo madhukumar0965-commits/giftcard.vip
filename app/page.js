@@ -77,16 +77,35 @@ export default function Home() {
       answer:
         "Type the address printed on your card instead of following unknown ads, check the complete domain before entering information, and never provide a PIN or security code to an unverified website, message, or caller. Report suspicious charges promptly to the issuer.",
     },
+    {
+      id: "faq-12",
+      count: "12",
+      question: "How do I register a GiftCardMall gift card?",
+      answer:
+        "Registration requirements vary by card. Check the instructions and web address printed on the card or packaging, and use only the issuer's verified site. This independent guide cannot register cards and will never ask for your card number, PIN, or security code.",
+    },
+    {
+      id: "faq-13",
+      count: "13",
+      question: "How do I check an MC gift card balance?",
+      answer:
+        "Use the balance-check website or phone number printed on your specific Mastercard gift card. Card programs can use different services, so do not assume GiftCardMall/MyGift supports your card. This guide cannot access balances or process cards.",
+    },
   ];
 
   const searchTags = [
     "giftcardmall/mygift",
     "www.giftcardmall.com/mygift",
     "giftcardmall mygift balance",
+    "giftcardmall/mygift check balance",
     "giftcardmall balance check",
+    "giftcardmall/mygift visa",
+    "giftcardmall activation",
+    "giftcardmall register card",
     "mygift card balance check",
     "check Visa gift card balance",
     "Mastercard gift card balance",
+    "mcgiftcard balance",
     "prepaid gift card balance online",
     "gift card activation help",
     "gift card transaction history",
@@ -141,10 +160,10 @@ export default function Home() {
                 <em>Skip the guesswork.</em>
               </h1>
               <p className="hero-lede">
-                Looking for <strong>giftcardmall/mygift</strong> or{" "}
-                <strong>www.giftcardmall.com/mygift</strong>? This independent
-                guide explains how to find your card&apos;s                 balance-check service, understand available funds, and solve
-                common prepaid gift card issues.
+                Looking for <strong>giftcardmall/mygift</strong>, <strong>giftcardmall balance</strong>,
+                <strong>giftcardmall activation</strong>, or <strong>giftcardmall register card</strong>?
+                This independent guide explains how to find the right balance-check service,
+                review available funds, and resolve common GiftCardMall/MyGift issues.
               </p>
               <div className="actions">
                 <a className="btn btn-dark" href="#balance-guide">
