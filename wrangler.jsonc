@@ -1,7 +1,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"main": ".open-next/worker.js",
-	"name": "giftcare-vip",
+	"name": "giftcard-vip",
 	"compatibility_date": "2026-10-25",
 	"compatibility_flags": [
 		"nodejs_compat",
@@ -9,7 +9,7 @@
 	],
 	"routes": [
 		{
-			"pattern": "giftcare.vip",
+			"pattern": "giftcard-vip",
 			"custom_domain": true
 		}
 	],
@@ -22,7 +22,7 @@
 			// Self-reference service binding, the service name must match the worker name
 			// see https://opennext.js.org/cloudflare/caching
 			"binding": "WORKER_SELF_REFERENCE",
-			"service": "giftcare-vip"
+			"service": "giftcard-vip"
 		}
 	],
 	"images": {
